@@ -38,7 +38,7 @@
     bottom: -75px;
 }
 
-@media screen and (max-width:360px) {
+@media screen and (max-width:430px) {
     .addTrip{
         display: flex;
        flex-direction: column;
